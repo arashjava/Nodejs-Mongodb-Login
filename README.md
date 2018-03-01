@@ -5,11 +5,11 @@ Nodejs/ Mongodb project and don't want to start from scratch, this would be a fa
 
 I used Linux Ubuntu and Atom to do it:
 The Atom add-ons I added are:
- -atom-beautify
- -autocomplete-plus
- -autocomplete-snippets
- -emmet
- -nodejs-snippets
+ - atom-beautify
+ - autocomplete-plus
+ - autocomplete-snippets
+ - emmet
+ - nodejs-snippets
 
 Here are the Nodejs packages I used:
 - npm install --save express-handlebars
