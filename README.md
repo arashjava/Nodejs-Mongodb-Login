@@ -23,10 +23,9 @@ Here are the Nodejs packages I used:
 - npm install express-validator --save
 
 You need to have both Mongodb and Nodejs up to run the project:
-start mongodb server:
    - sudo service mongod start 
    => localhost:27017 
-Start Nodejs werver:
+
 -Move to the folder you installed this package:
    - npm start 
    => localhost:3000
